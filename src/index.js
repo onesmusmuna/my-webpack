@@ -1,1 +1,1 @@
-console.log("Welcome to my webpack config");
+console.log("Using webpack");
