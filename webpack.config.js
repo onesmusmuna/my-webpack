@@ -31,5 +31,5 @@ module.exports = {
     filename: "bundle.js",
     path: path.join(__dirname, "dist")
   },
-  plugins: [new HtmlWebpackPlugin({title: "Development"})]
+  plugins: [new HtmlWebpackPlugin()]
 };
